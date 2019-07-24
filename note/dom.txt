@@ -1,0 +1,17 @@
+
+1.JavaScript DOM Tutorial #1 - Introduction
+	
+	resource : https://bitsofco.de/what-exactly-is-the-dom/
+
+	-critical renderig path
+
+			How a browser goes from a source HTML document to displaying a styled and interactive page in the viewport is called the “Critical Rendering Path”
+
+	-what is dom 
+
+		Dom is a representation of web page . how every element of the dom is structured.
+
+		
+
+
+
