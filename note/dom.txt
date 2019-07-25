@@ -11,6 +11,46 @@
 
 		Dom is a representation of web page . how every element of the dom is structured.
 
+
+2.JavaScript DOM Tutorial #2 - Get Element By ID
+
+    Id is a attribute in html.by which we can identify an element.Id in unique
+
+    -selecting ID - getElementById()
+
+        document.getElementById('page-banner');
+
+        -if we want to store it in a variable
+
+            var banner = document.getElementById('page-banner');
+
+3.JavaScript DOM Tutorial #3 - Get Elements By Class or Tag
+
+    -select by tag
+
+        var lis = document.getElementsByTagName('li');
+
+    -select by class name
+
+        var titles = document.getElementsByClassName('title');
+
+    -we get elements by tag name or class name we get those as a collection
+
+      not as an array.so we can not traverse them .
+
+     -Check array or not
+
+        Array.isArray(titles);
+
+     -convert collection in to array
+
+        Array.form(titles);
+
+     -normally any collection can be traverse by for loop but not with forEach.
+
+     have to be a array to traverse with forEach
+
+
 		
 
 
