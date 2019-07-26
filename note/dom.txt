@@ -51,6 +51,26 @@
      have to be a array to traverse with forEach
 
 
+4.JavaScript DOM Tutorial #4 - The Query Selector
+
+    -query select is like any selector that we have seen so far .But its unique in a sense that
+    it can select any item.
+
+        -querySelector
+
+            document.querySelector('#book-list li:nth-child(2) .name')
+
+            querySelector only select one item
+
+         -querySelectorAll
+
+            document.querySelectorAll('#book-list li .name');
+
+            querySelectorAll will return a collection
+
+5.JavaScript DOM Tutorial #5 - Changing Text & HTML Content
+
+
 		
 
 

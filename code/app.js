@@ -1,8 +1,15 @@
-var tittles = document.getElementsByClassName('title');
+var wmf = document.querySelector('#book-list li:nth-child(2) .name');
 
-/*console.log(Array.isArray(tittles));
-console.log(Array.isArray(Array.from(tittles)));*/
+//console.log(wmf);
 
-Array.from(tittles).forEach(function (title) {
-    console.log(title)
+var books = document.querySelectorAll('#book-list li .name');
+
+console.log(books);
+
+//looping through the array
+
+Array.from(books).forEach(function (book) {
+
+console.log(book);
+
 });
