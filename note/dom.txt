@@ -71,6 +71,15 @@
 
 5.JavaScript DOM Tutorial #5 - Changing Text & HTML Content
 
+    -textContent
+        extract just the context or the text from a html element
+
+        variable.textContent
+
+    -innerHTML
+
+        extract the total html from the selected item
+
 
 		
 
