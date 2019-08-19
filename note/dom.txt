@@ -80,6 +80,21 @@
 
         extract the total html from the selected item
 
+6.JavaScript DOM Tutorial #6 - Nodes
+
+    -pretty much every element in a page is a node.element is a one type of node .text is also a node
+
+    -nodeType
+
+        will return an integer
+
+    -nodeName
+
+    -hasChildNodes
+
+    -cloneNode (true)
+
+
 
 		
 

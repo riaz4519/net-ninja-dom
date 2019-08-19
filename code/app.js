@@ -17,7 +17,7 @@ console.log(book);
 
 
 /*5*/
-var books = document.querySelectorAll('#book-list li .name');
+/*var books = document.querySelectorAll('#book-list li .name');
 
 Array.from(books).forEach(function (book) {
 
@@ -26,5 +26,16 @@ Array.from(books).forEach(function (book) {
 
 const bookList = document.querySelector('#book-list');
 
-bookList.innerHTML = "<h1>Hello world</h1>"
+bookList.innerHTML = "<h1>Hello world</h1>"*/
+
+/*6*/
+
+/*const banner = document.querySelector('#page-banner');
+
+console.log(banner.nodeType);
+console.log(banner.nodeName);
+console.log(banner.hasChildNodes());*/
+
+
+
 
