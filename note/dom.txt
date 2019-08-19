@@ -93,6 +93,19 @@
     -hasChildNodes
 
     -cloneNode (true)
+7.JavaScript DOM Tutorial #7 - Traversing the DOM (part 1)
+
+    -parentNode
+
+    -parentElement
+
+    -childNodes
+
+        return all the text and element
+
+    -children
+
+        return just the elements
 
 
 

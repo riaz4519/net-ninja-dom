@@ -36,6 +36,19 @@ console.log(banner.nodeType);
 console.log(banner.nodeName);
 console.log(banner.hasChildNodes());*/
 
+/*7*/
+
+const bookList = document.querySelector('#book-list');
+
+//finding the parent node
+
+console.log(bookList.parentNode);
+console.log(bookList.parentElement.parentElement);
+
+console.log(bookList.childNodes);
+
+console.log(bookList.children);
+
 
 
 
