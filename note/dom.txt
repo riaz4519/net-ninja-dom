@@ -137,6 +137,30 @@
 
         bookList.previousElementSibling.querySelector('p').innerHTML += 'The value';
 
+9.JavaScript DOM Tutorial #9 - Events
+
+   ##add a listener
+    -addEventListener
+
+        var h2 = document.querySelector('#book-list h2');
+
+        h2.addEventListener('click',function(event){
+
+            console.log(event.target);
+
+        })
+    -target
+
+         -it returns the element that the event is attach to
+
+    -parentNode
+
+        li = event.target.parentNode;
+
+    -removeChild
+
+       li.parentNode.removeChild(li);
+
 
 
 

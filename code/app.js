@@ -53,6 +53,7 @@ console.log(bookList.children);
 
 /*8*/
 
+/*
 const  bookList = document.querySelector('#book-list');
 
 console.log('book lists next sibling is ',bookList.nextSibling);
@@ -60,6 +61,31 @@ console.log('book lists next sibling is ',bookList.nextElementSibling);
 
 console.log('book lists next sibling is ',bookList.previousSibling);
 console.log('book lists next sibling is ',bookList.previousElementSibling);
+
+*/
+
+/*9*/
+/*
+var h2 = document.querySelector('#book-list h2');
+
+h2.addEventListener('click',function (event) {
+
+    console.log(event.target.nodeName)
+
+});*/
+
+var btns = document.querySelectorAll('#book-list .delete');
+
+Array.from(btns).forEach(function (btn) {
+
+    btn.addEventListener("click",function (event) {
+
+        const  li = event.target.parentNode;
+
+        li.parentNode.removeChild(li);
+    });
+
+});
 
 
 
