@@ -37,6 +37,7 @@ console.log(banner.nodeName);
 console.log(banner.hasChildNodes());*/
 
 /*7*/
+/*
 
 const bookList = document.querySelector('#book-list');
 
@@ -48,7 +49,17 @@ console.log(bookList.parentElement.parentElement);
 console.log(bookList.childNodes);
 
 console.log(bookList.children);
+*/
 
+/*8*/
+
+const  bookList = document.querySelector('#book-list');
+
+console.log('book lists next sibling is ',bookList.nextSibling);
+console.log('book lists next sibling is ',bookList.nextElementSibling);
+
+console.log('book lists next sibling is ',bookList.previousSibling);
+console.log('book lists next sibling is ',bookList.previousElementSibling);
 
 
 

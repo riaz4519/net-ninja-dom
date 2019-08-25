@@ -107,6 +107,37 @@
 
         return just the elements
 
+8.JavaScript DOM Tutorial #8 - Traversing the DOM (part 2)
+
+    -nextSibling
+
+        bookList.nextSibling
+
+            - it will return every element with text node to
+
+    -nextElementSibling
+
+        bookList.nextElementSibling
+
+            -it will get just the element nodes
+    -previousSibling
+
+        bookList.previousSibling
+
+            it will get the previous sibling all the sibling including the text line break to
+
+    -previousElementSibling
+
+        bookList.previousElementSibling
+
+            just the element siblings
+
+
+     **we can traverse with in the selected element
+
+        bookList.previousElementSibling.querySelector('p').innerHTML += 'The value';
+
+
 
 
 		

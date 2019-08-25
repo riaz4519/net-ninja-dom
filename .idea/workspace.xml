@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74f7491f-ad38-4a1b-9139-f80f93c50bb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note/dom.txt" beforeDir="false" afterPath="$PROJECT_DIR$/note/dom.txt" afterDir="false" />
     </list>
@@ -19,7 +20,7 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/code/index.html">
               <provider selected="true" editor-type-id="text-editor">
@@ -33,7 +34,7 @@
             <entry file="file://$PROJECT_DIR$/code/app.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="495">
-                  <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+                  <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                   </folding>
@@ -44,12 +45,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/note/dom.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="470">
-                  <caret line="107" column="32" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="32" />
+                <state relative-caret-position="402">
+                  <caret line="137" column="84" selection-start-line="137" selection-start-column="84" selection-end-line="137" selection-end-column="84" />
                 </state>
               </provider>
             </entry>
@@ -150,18 +151,22 @@
       <workItem from="1564132785651" duration="4326000" />
       <workItem from="1564206821421" duration="611000" />
       <workItem from="1566017655999" duration="4602000" />
-      <workItem from="1566191376203" duration="5042000" />
+      <workItem from="1566191376203" duration="7122000" />
+      <workItem from="1566294815939" duration="596000" />
+      <workItem from="1566448199641" duration="622000" />
+      <workItem from="1566620526879" duration="280000" />
+      <workItem from="1566709989523" duration="1423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18724000" />
+    <option name="totallyTimeSpent" value="23725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115733735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123298034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -203,7 +208,7 @@
     <entry file="file://$PROJECT_DIR$/code/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -212,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/note/dom.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="107" column="32" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="32" />
+        <state relative-caret-position="402">
+          <caret line="137" column="84" selection-start-line="137" selection-start-column="84" selection-end-line="137" selection-end-column="84" />
         </state>
       </provider>
     </entry>
